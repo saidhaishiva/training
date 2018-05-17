@@ -1,0 +1,5 @@
+package com.jersey.firstexample;
+
+public class JerseyHelloWorld {
+
+}
